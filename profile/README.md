@@ -56,6 +56,18 @@ classic profile, 0.75).
   handhelds and consoles.
 - **Everywhere.** Linux, macOS, Windows, iOS, Android, the browser and handhelds.
 
+### Where the reference client is going
+
+Its visual target is the Ace of Spades that never shipped: the cancelled
+**OpenGL 1.0 build** of 2012, the one Jagex later turned into *Ace of Spades:
+Battle Builder*. Its developers, **Ben Aksoy (bcoolface)**, **Mathias Kærlev
+(Mat^2)** and **Grandy (TheGrandMaster)**, left 166 screenshots of it, from January
+to September 2012, which **[SeanVS](https://x.com/SeanVSOfficial)** preserved in the
+[Ace of Spades OpenGL 1.0 Build - Full Developer Screenshot Collection](https://archive.org/details/20221229_20221229_2228)
+on the Internet Archive. Shoot and Destroy aims to come as close as it can to those
+pictures, with its own models, effects and code: the screenshots are the goal, not
+a source of files.
+
 ## Make it yours
 
 | Repository | What is in it |
