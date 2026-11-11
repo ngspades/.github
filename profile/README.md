@@ -5,14 +5,36 @@
 **The ngspades protocol for Ace of Spades, alive again, and Shoot and Destroy,
 its reference client and server.**
 
-[![Website](https://img.shields.io/badge/website-shootanddestroy.obex.pw-2ea44f?style=for-the-badge)](https://shootanddestroy.obex.pw)
+A community project, made by Ace of Spades players for Ace of Spades players.
+
+[![Website](https://img.shields.io/badge/website-ngspades.obex.pw-2ea44f?style=for-the-badge)](https://ngspades.obex.pw)
 [![Protocol](https://img.shields.io/badge/protocol-docs-orange?style=for-the-badge)](https://github.com/ngspades/protocol)
-[![X](https://img.shields.io/badge/follow-%40itxtoledo-000000?style=for-the-badge&logo=x)](https://x.com/itxtoledo)
 [![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
+
+[![Discord](https://img.shields.io/badge/discord-join%20the%20chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/PMaSKrtGps)
+[![Reddit](https://img.shields.io/badge/reddit-r%2FAceOfSpades-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/AceOfSpades/)
+[![Build and Shoot](https://img.shields.io/badge/forums-Build%20and%20Shoot-8b0000?style=for-the-badge)](https://www.buildandshoot.com)
 
 </div>
 
 ---
+
+## Made by the community
+
+Ace of Spades has been kept alive for over a decade by its players: the map
+makers, the script authors, the people who run servers and the ones who just
+keep logging in. Shoot and Destroy is one more piece of that, built in the open
+on the work they shared, and it is meant to stay theirs: the code is GPL-3, the
+protocol is documented so anyone can write their own client or server, and the
+maps and plugins live in public repositories that take contributions.
+
+**Come say hello, tell us what is broken, and share what you build:**
+
+| Where | What for |
+| --- | --- |
+| 💬 **[Discord](https://discord.com/invite/PMaSKrtGps)** | Playing, finding a match, help with a server, feedback while it is fresh. |
+| 🟠 **[r/AceOfSpades](https://www.reddit.com/r/AceOfSpades/)** | The wider Ace of Spades community: news, maps, memories, questions. |
+| 🔨 **[Build and Shoot](https://www.buildandshoot.com)** | The classic forums and server list: scripts, maps and servers from the community's long history. |
 
 ## Where the name comes from
 
@@ -84,4 +106,7 @@ protocol 1.0 starts from the ngspades branch of
 client is a fork of [ButterSpades](https://butter.penguins.win) (itself a fork of
 [BetterSpades](https://github.com/xtreme8000/BetterSpades)), and the server a fork of
 [SpadesX](https://github.com/SpadesX/SpadesX). Thank you to every map maker and
-script author whose work lives on here.
+script author whose work lives on here, and to everyone in the
+[Discord](https://discord.com/invite/PMaSKrtGps),
+[r/AceOfSpades](https://www.reddit.com/r/AceOfSpades/) and
+[Build and Shoot](https://www.buildandshoot.com) who tests, reports and keeps the game going.
