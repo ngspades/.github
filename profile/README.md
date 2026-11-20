@@ -94,6 +94,7 @@ a source of files.
 
 | Repository | What is in it |
 | --- | --- |
+| 🖥️ **[server](https://github.com/ngspades/server)** | The Shoot and Destroy server, open source: protocol 1.0 (and the classic 0.75 profile), bots, game modes, Lua plugins, Docker and ready-to-run builds. Host your own match. |
 | 📡 **[protocol](https://github.com/ngspades/protocol)** | The protocols, documented for implementers: ngspades 1.0, Ace of Spades 0.75 / 0.76 and its extensions, the master server and the ping queries, with C and Godot examples. |
 | 🗺️ **[maps](https://github.com/ngspades/maps)** | Every Ace of Spades map from [aos.party](https://aos.party) (891 of them), with the original pyspades `.txt` and a `.toml` ready for a Shoot and Destroy server. Copy a folder, add it to your rotation. |
 | 🧩 **[plugins](https://github.com/ngspades/plugins)** | Lua plugins for Shoot and Destroy servers: game modes, mechanics, admin and building tools, most of them pyspades / PySnip scripts ported to Lua. Includes the plugin API and examples to write your own. |
