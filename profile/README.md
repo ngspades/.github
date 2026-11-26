@@ -74,6 +74,13 @@ classic profile, 0.75).
 - **Many modes.** Classic and next gen CTF, Babel, Arena, Zombies, King of the Hill,
   Territory Control, Creative, and Lua game modes from plugins.
 - **Up to 128 players a match**, bots included.
+- **Fast joins, light on the network.** The server sends a map as its stored,
+  compact file, and a player who has played it before receives nothing at all.
+  Each player gets only the bodies it can use, at a rate that falls with
+  distance: with 127 bots a client needs about 26 KB/s instead of 161, and a
+  1024 x 1024 map takes about 60 MiB of the server instead of 297. How, and how
+  it compares with SpadesX, is in the
+  [server's README](https://github.com/ngspades/server#maps-and-networking-compared-with-spadesx).
 - **Gamepad first.** Every menu and every action works with a controller, for
   handhelds and consoles.
 - **Everywhere.** Linux, macOS, Windows, iOS, Android, the browser and handhelds.
