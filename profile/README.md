@@ -1,5 +1,7 @@
 <div align="center">
 
+<p align="center"><img src="banner.png" alt="NEXGEN SPADES org" width="100%"></p>
+
 # ngspades
 
 **The ngspades protocol for Ace of Spades, alive again, and ngspades-client and
