@@ -2,8 +2,8 @@
 
 # ngspades
 
-**The ngspades protocol for Ace of Spades, alive again, and Shoot and Destroy,
-its reference client and server.**
+**The ngspades protocol for Ace of Spades, alive again, and ngspades-client and
+ngspades-server, its reference client and server.**
 
 A community project, made by Ace of Spades players for Ace of Spades players.
 
@@ -23,7 +23,7 @@ A community project, made by Ace of Spades players for Ace of Spades players.
 
 Ace of Spades has been kept alive for over a decade by its players: the map
 makers, the script authors, the people who run servers and the ones who just
-keep logging in. Shoot and Destroy is one more piece of that, built in the open
+keep logging in. ngspades is one more piece of that, built in the open
 on the work they shared, and it is meant to stay theirs: the code is GPL-3, the
 protocol is documented so anyone can write their own client or server, and the
 maps and plugins live in public repositories that take contributions.
@@ -57,9 +57,9 @@ OpenSpades project and is not run by its authors; the original ngspades code is
 theirs, under its own licence, in the
 [OpenSpades repository](https://github.com/yvt/openspades).
 
-## Shoot and Destroy, the reference client and server
+## ngspades-client and ngspades-server, the reference implementation
 
-**Shoot and Destroy** is the game that implements the ngspades protocol, and the
+**ngspades-client** and **ngspades-server** implement the ngspades protocol, and are the
 reference for it: one client that speaks protocol 1.0 with our servers and keeps
 joining every public 0.75 / 0.76 server, and a server that speaks 1.0 (or, in its
 classic profile, 0.75).
@@ -93,7 +93,7 @@ Battle Builder*. Its developers, **Ben Aksoy (bcoolface)**, **Mathias Kærlev
 (Mat^2)** and **Grandy (TheGrandMaster)**, left 166 screenshots of it, from January
 to September 2012, which **[SeanVS](https://x.com/SeanVSOfficial)** preserved in the
 [Ace of Spades OpenGL 1.0 Build - Full Developer Screenshot Collection](https://archive.org/details/20221229_20221229_2228)
-on the Internet Archive. Shoot and Destroy aims to come as close as it can to those
+on the Internet Archive. ngspades-client aims to come as close as it can to those
 pictures, with its own models, effects and code: the screenshots are the goal, not
 a source of files.
 
@@ -103,12 +103,12 @@ a source of files.
 | --- | --- |
 | 🖥️ **[server](https://github.com/ngspades/server)** | The open source reference server. Supports the classic 0.75 protocol and the ngspades 1.0 protocol, with bots, game modes, Lua plugins, Docker and ready-to-run builds. Host your own match. |
 | 📡 **[protocol](https://github.com/ngspades/protocol)** | The protocols, documented for implementers: ngspades 1.0, Ace of Spades 0.75 / 0.76 and its extensions, the master server and the ping queries, with C and Godot examples. |
-| 🗺️ **[maps](https://github.com/ngspades/maps)** | Every Ace of Spades map from [aos.party](https://aos.party) (891 of them), with the original pyspades `.txt` and a `.toml` ready for a Shoot and Destroy server. Copy a folder, add it to your rotation. |
-| 🧩 **[plugins](https://github.com/ngspades/plugins)** | Lua plugins for Shoot and Destroy servers: game modes, mechanics, admin and building tools, most of them pyspades / PySnip scripts ported to Lua. Includes the plugin API and examples to write your own. |
+| 🗺️ **[maps](https://github.com/ngspades/maps)** | Every Ace of Spades map from [aos.party](https://aos.party) (891 of them), with the original pyspades `.txt` and a `.toml` ready for an ngspades-server. Copy a folder, add it to your rotation. |
+| 🧩 **[plugins](https://github.com/ngspades/plugins)** | Lua plugins for ngspades-server: game modes, mechanics, admin and building tools, most of them pyspades / PySnip scripts ported to Lua. Includes the plugin API and examples to write your own. |
 
 ## Credits
 
-Shoot and Destroy stands on the shoulders of the Ace of Spades community:
+ngspades stands on the shoulders of the Ace of Spades community:
 protocol 1.0 starts from the ngspades branch of
 [OpenSpades](https://github.com/yvt/openspades) by yvt and its contributors, the
 client is a fork of [ButterSpades](https://butter.penguins.win) (itself a fork of
