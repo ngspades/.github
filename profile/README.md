@@ -13,7 +13,7 @@ A community project, made by Ace of Spades players for Ace of Spades players.
 [![Protocol](https://img.shields.io/badge/protocol-docs-orange?style=for-the-badge)](https://github.com/ngspades/protocol)
 [![License](https://img.shields.io/badge/license-GPLv3-blue?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
-[![Discord](https://img.shields.io/badge/discord-join%20the%20chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/PMaSKrtGps)
+[![Discord](https://img.shields.io/badge/discord-join%20the%20chat-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NdJPewb2p)
 [![Reddit](https://img.shields.io/badge/reddit-r%2FAceOfSpades-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/AceOfSpades/)
 [![Build and Shoot](https://img.shields.io/badge/forums-Build%20and%20Shoot-8b0000?style=for-the-badge)](https://www.buildandshoot.com)
 
@@ -34,7 +34,7 @@ maps and plugins live in public repositories that take contributions.
 
 | Where | What for |
 | --- | --- |
-| 💬 **[Discord](https://discord.com/invite/PMaSKrtGps)** | Playing, finding a match, help with a server, feedback while it is fresh. |
+| 💬 **[Discord](https://discord.gg/NdJPewb2p)** | Playing, finding a match, help with a server, feedback while it is fresh. |
 | 🟠 **[r/AceOfSpades](https://www.reddit.com/r/AceOfSpades/)** | The wider Ace of Spades community: news, maps, memories, questions. |
 | 🔨 **[Build and Shoot](https://www.buildandshoot.com)** | The classic forums and server list: scripts, maps and servers from the community's long history. |
 
@@ -117,6 +117,6 @@ client is a fork of [ButterSpades](https://butter.penguins.win) (itself a fork o
 [BetterSpades](https://github.com/xtreme8000/BetterSpades)), and the server a fork of
 [SpadesX](https://github.com/SpadesX/SpadesX). Thank you to every map maker and
 script author whose work lives on here, and to everyone in the
-[Discord](https://discord.com/invite/PMaSKrtGps),
+[Discord](https://discord.gg/NdJPewb2p),
 [r/AceOfSpades](https://www.reddit.com/r/AceOfSpades/) and
 [Build and Shoot](https://www.buildandshoot.com) who tests, reports and keeps the game going.
